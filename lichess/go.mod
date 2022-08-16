@@ -1,4 +1,4 @@
-module github.com/RickyGrassmuck/lichess-go/client
+module github.com/RickyGrassmuck/lichess-go/lichess
 
 go 1.19
 
